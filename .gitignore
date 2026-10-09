@@ -1,0 +1,17 @@
+# Compiled files
+*.exe
+*.o
+*.out
+build/
+merit
+
+# IDE files
+*.cbp
+*.layout
+*.depend
+*.dev
+.vscode/
+.idea/
+
+# Generated at runtime (an example is kept in sample_output/)
+/predicted_merit.txt
