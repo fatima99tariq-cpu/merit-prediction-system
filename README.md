@@ -99,13 +99,6 @@ Thank you for using the Merit Predictor!
 - Let users add or update department data without changing code
 - Add more departments (e.g. Information Technology)
 
-## Team (Group 8)
-
-- Fatima Tariq
-- Aliza Amir
-- Umaima Bibi
-- Dua Fatima
-
 **Instructor:** Mariam Nosheen
 
 ## References
